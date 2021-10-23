@@ -1,4 +1,4 @@
-# design_app
+# ProfileTour
 
 A new Flutter project.
 
